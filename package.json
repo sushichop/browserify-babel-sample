@@ -24,9 +24,10 @@
     "jquery": "^2.1.4"
   },
   "private": true,
-  "scripts": {
+  "scripts": { 
     "gulp": "gulp",
-    "build": "gulp default"
+    "build": "gulp scripts",
+    "watch": "gulp watch"
   },
   "author": {
     "name": "sushichop",

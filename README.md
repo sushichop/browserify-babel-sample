@@ -2,9 +2,13 @@
 
 Browserify-babel-sample shows an example of the gulp script with ECMAScript 2015.
 
+
 ## Usage
 
-- npm run build
+```bash
+$ npm install
+$ npm run gulp
+```
 
 ## Author
 
